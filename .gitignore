@@ -1,0 +1,17 @@
+# Klucze API i sekrety 
+.env
+
+# Środowisko wirtualne Pythona 
+venv/
+.venv/
+
+# Pliki tymczasowe Pythona
+**/__pycache__/
+
+# Logi generowane automatycznie przez PyCaret
+*.log
+
+artifacts/
+*.joblib
+*.pyc
+2023.csv
