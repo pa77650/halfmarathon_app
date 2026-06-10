@@ -1,9 +1,9 @@
-﻿streamlit= 1.43.2
-pandas =  1.5.3
-pycaret = 3.3.2
-openai = 1.107.1
-langfuse = 2.51.4
-python-dotenv = 1.2.2
-boto3 = 1.35.93
-scikit-learn = 1.4.2
-numpy = 1.26.4 
+﻿streamlit== 1.43.2
+pandas ==  1.5.3
+pycaret == 3.3.2
+openai == 1.107.1
+langfuse == 2.51.4
+python-dotenv == 1.2.2
+boto3 == 1.35.93
+scikit-learn == 1.4.2
+numpy == 1.26.4 
