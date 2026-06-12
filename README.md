@@ -2,11 +2,11 @@
 
 Aplikacja pozwala biegaczowi wpisać naturalnym językiem podstawowe informacje o sobie (np. "Mam 30 lat, jestem kobietą, 5 km biegam w 22 minuty"). 
 
-Cel aplikacji
+:point_right:Cel aplikacji
 
 System automatycznie wyciąga z tego tekstu wpisanego przez użytkownika kluczowe parametry, a następnie precyzyjnie oblicza prognozowany czas ukończenia półmaratonu. Model ML wytrenowane na podstawie danych z Półmaratonu Wrocławskiego 2023 i 2024 (ok. 21 000 wyników).
 
-Technologia
+:point_right:Technologia
 
 Python - główny język programowania projektu.
 Streamlit - framework do szybkiego tworzenia aplikacji webowej bezpośrednio w Pythonie.
