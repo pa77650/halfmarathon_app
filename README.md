@@ -1,4 +1,4 @@
-Kalkulator czasu półmaratonu "Halfmarathon Finish Time Predictor"
+🏃‍♀️Kalkulator czasu półmaratonu "Halfmarathon Finish Time Predictor"
 
 Aplikacja pozwala biegaczowi wpisać naturalnym językiem podstawowe informacje o sobie (np. "Mam 30 lat, jestem kobietą, 5 km biegam w 22 minuty"). 
 
